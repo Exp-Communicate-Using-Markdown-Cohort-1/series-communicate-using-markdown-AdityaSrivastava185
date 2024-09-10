@@ -17,6 +17,5 @@
 
 7. Security: The open nature of the code can enhance security because vulnerabilities are more likely to be discovered and fixed quickly by the community. However, it also means that malicious actors can scrutinize the code for potential exploits, so security practices must still be robust.
 
-8. **Examples**: Some well-known open source projects include the Linux operating system, the Mozilla Firefox web browser, the Apache HTTP Server, and the WordPress content management system.
+8. Examples: Some well-known open source projects include the Linux operating system, the Mozilla Firefox web browser, the Apache HTTP Server, and the WordPress content management system.
 
-Overall, open source fosters a culture of collaboration and transparency in software development, leading to more robust, flexible, and innovative solutions.
