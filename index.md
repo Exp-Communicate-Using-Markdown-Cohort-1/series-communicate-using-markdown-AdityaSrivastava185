@@ -24,6 +24,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 8. Examples: Some well-known open source projects include the Linux operating system, the Mozilla Firefox web browser, the Apache HTTP Server, and the WordPress content management system.
 
-- [x] Turn on GitHub Pages
-- [x] Outline my portfolio
-- [x] Introduce myself to the world
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
