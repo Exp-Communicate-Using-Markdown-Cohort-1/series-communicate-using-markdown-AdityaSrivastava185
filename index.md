@@ -1,7 +1,8 @@
 # Communicating using markdown 
-## Open source refers to a type of software licensing and development model where the source code of a program is made freely available to anyone. This means that anyone can view, modify, and distribute the code. The idea is to promote collaborative development and transparency, allowing a community of developers to contribute to and improve the software.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+### Open source refers to a type of software licensing and development model where the source code of a program is made freely available to anyone. This means that anyone can view, modify, and distribute the code. The idea is to promote collaborative development and transparency, allowing a community of developers to contribute to and improve the software.
 
-### Here are some key points about open source:
+#### Here are some key points about open source:
 
 1. Transparency: Since the source code is available, users and developers can examine how the software works, check for security vulnerabilities, and understand the inner workings of the application.
 
